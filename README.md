@@ -1,4 +1,4 @@
-# Machine Learnest Crash Course Repo
+# Machine Learning Crash Course Repo
 
 https://developers.google.com/machine-learning/crash-course/ml-intro
 
