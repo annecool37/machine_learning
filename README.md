@@ -3,6 +3,7 @@
 https://developers.google.com/machine-learning/crash-course/ml-intro
 
 TBD
+```
 5/20 - 6/3 (200 min)
 Prework (setup environment)
 Introduction to ML (3min)
@@ -39,3 +40,4 @@ Multi-Class Neural Nets (50 min)
 Programing Exercise
 Embeddings (80 min)
 Programing Exercise
+```
